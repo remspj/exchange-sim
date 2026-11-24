@@ -1,0 +1,4 @@
+# cmake files
+.cache/
+build/
+compile_commands.json

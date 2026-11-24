@@ -1,0 +1,5 @@
+- LOB matching with a fixed input list
+- Add timing
+- Add functions to add to the input list
+- Store the list in a queueing system
+- Expose endpoints to an API
