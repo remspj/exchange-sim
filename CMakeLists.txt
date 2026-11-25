@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 4.5)
 project(exchange_sim LANGUAGES CXX)
 
-add_executable(exchange_sim src/main.cpp src/lob_csv_reader.cpp)
+add_executable(exchange_sim src/main.cpp src/lob_csv.cpp)
 
 target_include_directories(
     exchange_sim
